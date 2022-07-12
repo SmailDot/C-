@@ -1,0 +1,2 @@
+E:\C++ Word\0710\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+E:\C++ Word\0710陣列翻轉\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
