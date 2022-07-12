@@ -1,1 +1,1 @@
-# C++ Word
+# C++ homework
