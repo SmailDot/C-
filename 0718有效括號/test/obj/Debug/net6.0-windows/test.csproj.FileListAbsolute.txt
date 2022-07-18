@@ -1,0 +1,17 @@
+E:\C++ Word\test\test\bin\Debug\net6.0-windows\test.exe
+E:\C++ Word\test\test\bin\Debug\net6.0-windows\test.deps.json
+E:\C++ Word\test\test\bin\Debug\net6.0-windows\test.runtimeconfig.json
+E:\C++ Word\test\test\bin\Debug\net6.0-windows\test.dll
+E:\C++ Word\test\test\bin\Debug\net6.0-windows\test.pdb
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.csproj.AssemblyReference.cache
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.Form1.resources
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.csproj.GenerateResource.cache
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.GeneratedMSBuildEditorConfig.editorconfig
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.AssemblyInfoInputs.cache
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.AssemblyInfo.cs
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.csproj.CoreCompileInputs.cache
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.dll
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\refint\test.dll
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.pdb
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\test.genruntimeconfig.cache
+E:\C++ Word\test\test\obj\Debug\net6.0-windows\ref\test.dll
